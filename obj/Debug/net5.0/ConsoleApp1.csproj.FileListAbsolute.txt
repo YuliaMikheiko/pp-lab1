@@ -1,0 +1,16 @@
+C:\Users\Администратор\Source\Repos\pp-lab1\bin\Debug\net5.0\ConsoleApp1.exe
+C:\Users\Администратор\Source\Repos\pp-lab1\bin\Debug\net5.0\ConsoleApp1.deps.json
+C:\Users\Администратор\Source\Repos\pp-lab1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Администратор\Source\Repos\pp-lab1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Администратор\Source\Repos\pp-lab1\bin\Debug\net5.0\ConsoleApp1.dll
+C:\Users\Администратор\Source\Repos\pp-lab1\bin\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\Администратор\Source\Repos\pp-lab1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Администратор\Source\Repos\pp-lab1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Source\Repos\pp-lab1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Администратор\Source\Repos\pp-lab1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Администратор\Source\Repos\pp-lab1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Source\Repos\pp-lab1\obj\Debug\net5.0\ConsoleApp1.dll
+C:\Users\Администратор\Source\Repos\pp-lab1\obj\Debug\net5.0\refint\ConsoleApp1.dll
+C:\Users\Администратор\Source\Repos\pp-lab1\obj\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\Администратор\Source\Repos\pp-lab1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Администратор\Source\Repos\pp-lab1\obj\Debug\net5.0\ref\ConsoleApp1.dll
