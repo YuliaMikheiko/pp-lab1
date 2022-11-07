@@ -34,6 +34,11 @@ namespace ConsoleApp1
 
                 threads[i] = new Thread(() => { returns[i] = (ThreadArray(array, i, threadCount)); });
                 threads[i].Start();
+
+            }
+            for (int i = 0; i < threads.Length; i++)
+            {
+
                 threads[i].Join();
 
             }
